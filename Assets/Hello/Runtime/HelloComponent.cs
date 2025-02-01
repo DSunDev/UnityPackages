@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Hello
+namespace Hello.Runtime
 {
     public class HelloComponent : MonoBehaviour
     {
